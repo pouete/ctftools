@@ -29,6 +29,7 @@ A list of tools for linux operating system that can be used in ctfs.
 4. [FFDec](http://www.free-decompiler.com/flash/download.html)
 5. [dex2jar](http://code.google.com/p/dex2jar/)
 6. [uncompyle2](https://github.com/wibiti/uncompyle2)
+7. [apktool] (http://ibotpeaches.github.io/Apktool/)
 
 
 ## NETRORKING
